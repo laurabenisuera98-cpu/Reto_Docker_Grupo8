@@ -61,3 +61,4 @@ alumnos_vacia = []
 print (f"nota media alumnos lista incial: {calcular_media(alumnos_inicial)}")
 print (f"nota media alumno con nota 5.0: {calcular_media(alumnos_un_alumno)}")
 print (f"nota media lista vacía: {calcular_media(alumnos_vacia)}")
+
